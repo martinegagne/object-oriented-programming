@@ -52,5 +52,3 @@ class Moon
     @planet = super(planet)
   end
 end
-
-p Planet
